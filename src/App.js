@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>Welcome! Start Your Onboarding Here!</h1>
         <NewForm />
       </header>
     </div>
